@@ -456,7 +456,7 @@ In conclusion, LightningChart Python is an excellent tool for creating high-qual
 
 
 ### Sources
-- NASA Global Temperature Data: [Our World in Data](https://ourworldindata.org/co2-emissions)
+
 - [LightningChart](https://lightningchart.com/python-charts/docs/charts/)
 - [Finnish Meteorological Institute](https://en.ilmatieteenlaitos.fi/icestatistics)
 - [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/access/monitoring/snow-and-ice-extent/sea-ice/G/0)
